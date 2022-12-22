@@ -9,3 +9,8 @@ Functional programming languages are declarative, meaning that a computation's l
 ![image](https://user-images.githubusercontent.com/22015810/209026407-91dfe654-03c8-4cbd-929e-f372f2fd158e.png)
 
 Video tutorial [here](https://www.youtube.com/watch?v=VRpHdSFWGPs&t=935s)
+
+### Blog tutorials 
+[java2s](http://www.java2s.com/Tutorials/Java/java.util.function/Function/1040__Function.compose.htm)
+
+[Jenkov](https://jenkov.com/tutorials/java-functional-programming/functional-composition.html)
